@@ -1,0 +1,14 @@
+{
+  "uid": "github.com/pinf/pinf-config-js",
+  "name": "pinf-config-js",
+  "version": "0.1.0",
+  "pm": "npm",
+  "publish": true,
+  "main": "./lib/config.js",
+  "devDependencies": {
+    "fs-extra": "~0.6.0",
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
