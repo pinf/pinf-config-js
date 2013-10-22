@@ -6,7 +6,7 @@
   "publish": true,
   "main": "./lib/config.js",
   "devDependencies": {
-    "fs-extra": "~0.6.0",
+    "fs-extra": "~0.6.0"
   },
   "scripts": {
     "test": "make test"
