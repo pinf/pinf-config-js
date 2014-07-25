@@ -1,7 +1,7 @@
 {
   "uid": "github.com/pinf/pinf-config-js",
   "name": "pinf-config-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "pm": "npm",
   "publish": true,
   "main": "./lib/config.js",
