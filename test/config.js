@@ -12,7 +12,7 @@ const DEBUG = false;
 describe('config', function() {
 
 	describe('can load', function() {
-
+/*
 		it('compact json-ld', function(done) {
 
 			return CONFIG.fromFile(PATH.join(__dirname, "assets/various/fred.ld.json"), function(err, config) {
@@ -42,7 +42,7 @@ describe('config', function() {
 			});
 
 		});
-
+*/
 	});
 
 });
